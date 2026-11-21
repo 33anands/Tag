@@ -1,14 +1,3 @@
-1. Click Tag-v1.4.zip
-2. Click the download icon in the top right of the file
-
-<img width="288" height="128" alt="Screenshot 2026-11-16 at 9 07 52 PM" src="https://github.com/user-attachments/assets/2d9014ce-675c-4b5c-8d7f-a812f94179cb" />
-
-3. Double click the zip file in your Finder after it is done downloading
-4. Double click the "Tag" folder
-
-It should look like this:
-<img width="914" height="433" alt="Screenshot 2026-11-21 at 11 48 53 AM" src="https://github.com/user-attachments/assets/11891232-41a9-48a3-8805-4814ec98a5d4" />
-
 If you want to play offline in your browser:
 
 1. Click "index.html"
