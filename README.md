@@ -4,8 +4,10 @@ If you want to play offline in your browser:
 2. Click the download icon in the top right of the file
 3. Double click "index.html" in your Finder
 
+If you want to play online in your browser:
+1. Go to play-tag.vercel.app
 
-If you want to play via the launcher/dock:
+If you want to play online via the launcher/dock:
 
 1. Click "Tag.app.zip"
 2. Click the download icon in the top right of the file
